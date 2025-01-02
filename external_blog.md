@@ -1,7 +1,7 @@
 ---
 layout: page
 title: External Blogs 
-permalink: /ex_blogs/
+permalink: /external_blogs/
 ---
 
 * [高速に metrics を記録するための仕組み](https://zenn.dev/uchiiii/articles/867029846da569)
